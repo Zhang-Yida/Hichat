@@ -1,0 +1,24 @@
+{
+  "name": "hichat",
+  "version": "1.0.0",
+  "description": "Hi Chat with Node and Webpack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhang-Yida/Hichat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhang-Yida/Hichat/issues"
+  },
+  "homepage": "https://github.com/Zhang-Yida/Hichat#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.1"
+  }
+}
